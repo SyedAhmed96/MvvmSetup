@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvvmSetup</string>
+    <string name="movie_thumbnail">Movie thumbnail</string>
+</resources>
